@@ -48,7 +48,7 @@ PeekingIterator.prototype.hasNext = function () {
  *  It should not be included in the code, when running it on the website.
  *  
  * function Iterator() {
- *    @ return {number}
+ *    @return {number}
  *    this.next = function() { // return the next number of the iterator
  *       ...
  *    }; 
